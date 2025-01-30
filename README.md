@@ -14,6 +14,18 @@
 
 DESCIBTION: HERE I HAVE PERFORMED FOUR TASK.
 
+OUTPUT OF CODE: 
+
+![Image](https://github.com/user-attachments/assets/0fac9d70-122b-49d2-8712-945c622d12ec)
+
+![Image](https://github.com/user-attachments/assets/cc1045b9-041c-4239-9ef8-0e4a93f57625)
+
+![Image](https://github.com/user-attachments/assets/649d490a-836e-4f9f-ad49-505b5ad3ed64)
+
+![Image](https://github.com/user-attachments/assets/34100157-f0c6-425a-89e2-122e938ccbdf)
+
+![Image](https://github.com/user-attachments/assets/c0c8c031-44f4-4351-921f-1de192fde531)
+
 TASK 1: CREATE A C++ APPLICATION TO READ ,WRITE AND APPEND DATA TO TEXT FILES.
 FIRST WRITE CODE AND THEN CREATE TEXT FILE IN WHICH YOU WRITE AND APPEND DATA.
  RUN THE CODE CHOOSE OPTION : 1. WRITE DATA
